@@ -1,0 +1,1 @@
+<motorDrivingConfiguration><Forward><Pin>12</Pin><Pin>6</Pin><Pin>20</Pin><Pin>19</Pin></Forward><Left><Pin>12</Pin><Pin>5</Pin><Pin>20</Pin><Pin>19</Pin></Left><Right><Pin>12</Pin><Pin>5</Pin><Pin>21</Pin><Pin>19</Pin></Right><Backward><Pin>16</Pin><Pin>5</Pin><Pin>21</Pin><Pin>26</Pin></Backward></motorDrivingConfiguration>
